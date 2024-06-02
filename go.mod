@@ -26,7 +26,7 @@ require (
 	github.com/spf13/cobra v1.8.0
 	github.com/stretchr/testify v1.8.4
 	github.com/ugorji/go/codec v1.2.11
-	go4.org/netipx v0.0.0-20230125063823-8449b0a6169f
+	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	gocloud.dev v0.29.0
 	golang.org/x/crypto v0.15.0
 	golang.org/x/sys v0.14.0
