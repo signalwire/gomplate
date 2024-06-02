@@ -20,7 +20,7 @@ require (
 	github.com/hashicorp/go-sockaddr v1.0.6
 	github.com/hashicorp/vault/api v1.10.0
 	github.com/itchyny/gojq v0.12.13
-	github.com/johannesboyne/gofakes3 v0.0.0-20220627085814-c3ac35da23b2
+	github.com/johannesboyne/gofakes3 v0.0.0-20240513200200-99de01ee122d
 	github.com/joho/godotenv v1.5.1
 	github.com/rs/zerolog v1.31.0
 	github.com/spf13/cobra v1.8.0
